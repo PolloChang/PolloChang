@@ -23,5 +23,4 @@ Here are some ideas to get you started:
 ## Top Repositories
 
 ![Clay's github stats](https://github-readme-stats.vercel.app/api?username=pollochang&theme=gruvbox)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pollochang&layout=compact&theme=gruvbox&langs_count=10)
